@@ -295,6 +295,11 @@ a:focus, a:hover {
   background-color: #64a19d !important;
 }
 
+/* .img-fluid {
+  height: 50%;
+  width: 25%;
+} */
+
 .text-primary {
   color: #64a19d !important;
 }
