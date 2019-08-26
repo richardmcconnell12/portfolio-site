@@ -293,3 +293,21 @@ footer {
   margin: 17px;
   margin-bottom: 50px;
 }
+
+
+
+@media (min-width: 992px) {
+  .tech-stack-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+@media (min-width: 500px) {
+  .tech-stack-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
