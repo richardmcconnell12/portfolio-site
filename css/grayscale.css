@@ -291,10 +291,13 @@ footer {
 
 .tech-stack-img {
   margin: 17px;
+  margin-left: 10px;
   margin-bottom: 50px;
 }
 
-
+.text-light {
+  text-align: left;
+}
 
 @media (min-width: 992px) {
   .tech-stack-content {
